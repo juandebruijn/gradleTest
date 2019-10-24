@@ -8,4 +8,9 @@ public class mainTest {
         Assert.assertTrue(true);
     }
 
+    @Test
+    public void otroTestDeTest(){
+        Assert.assertTrue(true);
+    }
+
 }
